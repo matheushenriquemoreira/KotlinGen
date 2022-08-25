@@ -1,2 +1,0 @@
-C:\Users\mathe\IdeaProjects\Primeiro_Projeto\companionobj\src\jsMain\kotlin\Client.kt
-C:\Users\mathe\IdeaProjects\Primeiro_Projeto\companionobj\src\jsMain\kotlin\Welcome.kt
